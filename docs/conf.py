@@ -40,7 +40,7 @@ releases_unstable_prehistory = True
 
 # source, destination
 video_files = [
-    ("https://overtag.dk/files/enable-pull-request-builders.mp4", "enable-pull-request-builders.mp4")
+    ("https://github.com/EDI-N/ForVideo/blob/0.x/docs/Videos/full.mp4", "some.mp4")
 ]
 
 def download_file(url, local_filename):
